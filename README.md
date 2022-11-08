@@ -7,7 +7,7 @@
 # Hi there <img src="https://raw.githubusercontent.com/appinha/appinha/main/img/Hi.gif" width="30px">
 
 <!-- ### Thanks for visiting! 😄 -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Thanks+for+visiting!+😄)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%164B63FF&lines=Thanks+for+visiting!+😄)](https://git.io/typing-svg)
 
 I'm an avid self-learner and passionate about education 📖. I'm a software engineering student at [Школа 21](https://21-school.ru/) 🏫
 
@@ -26,6 +26,14 @@ I have a variety of interests:
 
 ... always learning something new 🤓
 
+[![codewars](https://www.codewars.com/users/RinatMambetov/badges/small)](https://www.codewars.com/users/RinatMambetov)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=RinatMambetov)](https://git.io/streak-stats)
+
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
+
+---
+
 <p align="center">
 	<a href="mailto:mambetovpost@gmail.com">
 		<img alt="Mail Me" src="https://img.shields.io/badge/-Mail_me-blueviolet?style=flat&logo=Gmail&logoColor=white&link=mailto:mambetovpost@gmail.com" />
@@ -34,8 +42,6 @@ I have a variety of interests:
 		<img alt="Profile at École 42" src="https://img.shields.io/badge/-greita_@_42-ff69b4?style=flat&logoColor=white&link=https://profile.intra.42.fr/users/greita" />
 	</a>
 </p>
-
-
 
 <h3 align="center">
 	Show some 🤗 by starring ⭐️ my repositories!
