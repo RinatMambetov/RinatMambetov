@@ -30,7 +30,7 @@ I have a variety of interests:
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=RinatMambetov)](https://git.io/streak-stats)
 
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)](https://github.com/piyushsuthar/github-readme-quotes)
 
 <p align="center">
 	<a href="mailto:mambetovpost@gmail.com">
