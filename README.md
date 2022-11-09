@@ -32,6 +32,8 @@ I have a variety of interests:
 
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)](https://github.com/piyushsuthar/github-readme-quotes)
 
+<br>
+
 <p align="center">
 	<a href="mailto:mambetovpost@gmail.com">
 		<img alt="Mail Me" src="https://img.shields.io/badge/-Mail_me-blueviolet?style=flat&logo=Gmail&logoColor=white&link=mailto:mambetovpost@gmail.com" />
