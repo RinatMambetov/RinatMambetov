@@ -32,14 +32,15 @@ I have a variety of interests:
 
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
 
----
-
 <p align="center">
 	<a href="mailto:mambetovpost@gmail.com">
 		<img alt="Mail Me" src="https://img.shields.io/badge/-Mail_me-blueviolet?style=flat&logo=Gmail&logoColor=white&link=mailto:mambetovpost@gmail.com" />
 	</a>
 	<a href="https://profile.intra.42.fr/users/greita">
-		<img alt="Profile at École 42" src="https://img.shields.io/badge/-greita_@_42-ff69b4?style=flat&logoColor=white&link=https://profile.intra.42.fr/users/greita" />
+		<img alt="Profile at École 42" src="https://img.shields.io/badge/-greita-yellow?style=flat&logo=42&logoColor=white&link=https://profile.intra.42.fr/users/greita" />
+	</a>
+	<a href="https://vk.com/mambetov82">
+		<img alt="Profile at École 42" src="https://img.shields.io/badge/-Message me-blue?style=flat&logo=vk&logoColor=white&link=https://vk.com/mambetov82" />
 	</a>
 </p>
 
