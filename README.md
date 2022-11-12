@@ -15,13 +15,16 @@ I have experience in diverse programming languages and technologies. My current 
 
 I have a variety of interests:
 
-* 💻  network technology specialist
-* 🚔  information security specialist
+* 💻  network technology
+* 🚔  information security
 * 📖  tutor (programming for children)
 * 🌎  languages & travelling
 * 🏃🏻‍♂️  running & hiking
 * 📸  photographer
 * 🎹  pianist
+* 📝  artist
+* ♟  chess
+* 🧘🏼‍♂️  yoga
 * 👨‍👩‍👧‍👦  father
 
 ... always learning something new 🤓
@@ -41,8 +44,8 @@ I have a variety of interests:
 	<a href="https://profile.intra.42.fr/users/greita">
 		<img alt="Profile at École 42" src="https://img.shields.io/badge/-greita-yellow?style=flat&logo=42&logoColor=white&link=https://profile.intra.42.fr/users/greita" />
 	</a>
-	<a href="https://vk.com/mambetov82">
-		<img alt="Profile at École 42" src="https://img.shields.io/badge/-Message me-blue?style=flat&logo=vk&logoColor=white&link=https://vk.com/mambetov82" />
+	<a href="https://vk.com/rinatmambetov">
+		<img alt="Profile at École 42" src="https://img.shields.io/badge/-Message me-blue?style=flat&logo=vk&logoColor=white&link=https://vk.com/rinatmambetov" />
 	</a>
 </p>
 
