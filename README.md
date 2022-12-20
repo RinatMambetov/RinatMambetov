@@ -21,7 +21,7 @@ I have a variety of interests:
 * 🌎  languages & travelling
 * 🏃🏻‍♂️  running & hiking
 * 📸  photographer
-* 🎹  pianist
+<!-- * 🎹  pianist -->
 * 📝  artist
 * ♟  chess player
 * 🧘🏼‍♂️  yoga
