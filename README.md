@@ -7,6 +7,7 @@
 # Hi there <img src="https://raw.githubusercontent.com/appinha/appinha/main/img/Hi.gif" width="30px">
 
 <!-- ### Thanks for visiting! 😄 -->
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%164B63FF&lines=Thanks+for+visiting!+😄)](https://git.io/typing-svg)
 
 I'm an avid self-learner and passionate about education 📖. I'm a software engineering student at [Школа 21](https://21-school.ru/) 🏫
@@ -15,16 +16,12 @@ I have experience in diverse programming languages and technologies. My current 
 
 I have a variety of interests:
 
-* 💻  network technology
-* 🚔  information security
-* 📖  tutor (programming for children)
-* 🌎  languages & travelling
-* 🏃🏻‍♂️  running & hiking
-* 📸  photographer
-* 📝  artist
-* ♟  chess player
-* 🧘🏼‍♂️  yoga
-* 👨‍👩‍👧‍👦  father
+- 💻 java developer
+- 📖 tutor (programming for children)
+- 🌎 languages & travelling
+- 🏃🏻‍♂️ running & hiking
+- 🧘🏼‍♂️ yoga
+- 👨‍👩‍👧‍👦 father
 
 ... always learning something new 🤓
 
