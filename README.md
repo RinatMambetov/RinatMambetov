@@ -29,7 +29,7 @@ I have a variety of interests:
 
 ![Leetcode Stats](https://leetcard.jacoblin.cool/RinatMambetov?theme=light)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=RinatMambetov)](https://git.io/streak-stats)
+<!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=RinatMambetov)](https://git.io/streak-stats) -->
 
 <!-- [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)](https://github.com/piyushsuthar/github-readme-quotes) -->
 
