@@ -10,9 +10,10 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%164B63FF&lines=Thanks+for+visiting!+😄)](https://git.io/typing-svg)
 
-I'm an avid self-learner and passionate about education 📖. I'm a software engineering student at [Школа 21](https://21-school.ru/) 🏫
+I'm an avid self-learner and passionate about education 📖.
+<!-- I'm a software engineering student at [Школа 21](https://21-school.ru/) 🏫 -->
 
-I have experience in diverse programming languages and technologies. My current goal is to deepen my knowledge in software engineering 💻
+I have experience in diverse programming languages and technologies. My current goal is to deepen my knowledge in Java 💻
 
 I have a variety of interests:
 
@@ -25,9 +26,9 @@ I have a variety of interests:
 
 ... always learning something new 🤓
 
-[![codewars](https://www.codewars.com/users/RinatMambetov/badges/small)](https://www.codewars.com/users/RinatMambetov)
+<!-- [![codewars](https://www.codewars.com/users/RinatMambetov/badges/small)](https://www.codewars.com/users/RinatMambetov) -->
 
-![Leetcode Stats](https://leetcard.jacoblin.cool/RinatMambetov?theme=light)
+<!-- ![Leetcode Stats](https://leetcard.jacoblin.cool/RinatMambetov?theme=light) -->
 
 <!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=RinatMambetov)](https://git.io/streak-stats) -->
 
