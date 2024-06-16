@@ -17,7 +17,7 @@ I have experience in diverse programming languages and technologies. My current 
 
 I have a variety of interests:
 
-- 💻 java developer
+- ☕️ java development
 - 📖 tutor (programming for children)
 - 🌎 languages & travelling
 - 🏃🏻‍♂️ running & hiking
