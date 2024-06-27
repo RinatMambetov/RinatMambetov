@@ -18,7 +18,7 @@ I have experience in diverse programming languages and technologies. My current 
 I have a variety of interests:
 
 - ☕️ java development
-- 📖 tutor (programming for children)
+- 📖 tutor ([programming for children](https://rinat-tutor.tilda.ws/))
 - 🌎 languages & travelling
 - 🏃🏻‍♂️ running & hiking
 - 🧘🏼‍♂️ yoga
