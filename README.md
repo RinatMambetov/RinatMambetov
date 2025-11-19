@@ -18,7 +18,7 @@ I have experience in diverse programming languages and technologies. My current 
 
 I have a variety of interests:
 
-- ☕️ python development
+- 🐍 python development
 - 📖 tutor
 - 🌎 languages
 - 🏃🏻‍♂️ running
